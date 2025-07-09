@@ -12,7 +12,7 @@ This system combines security and automation to create a smart door lock suitabl
 
 # Demo Video 
 
- [Click to Watch the Demo](#https://drive.google.com/file/d/14evAZtdc-5jMFecFIHA6q7zUXNIimldD/view?usp=drive_link)   
+ [Click to Watch the Demo](https://drive.google.com/file/d/14evAZtdc-5jMFecFIHA6q7zUXNIimldD/view?usp=drive_link)   
 
 ---
 
